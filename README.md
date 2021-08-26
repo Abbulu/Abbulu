@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abbulu
-- 👀 I’m interested in ...Future
+- 👀 I’m interested in ...Real time projects
 - 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...Job searching
+- 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ...social media
 
 <!---
